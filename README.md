@@ -25,7 +25,7 @@ Hey, I'm Ayush. I like building things that are fun, some live on the internet, 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub 
 
 <div align="center">
 
@@ -40,15 +40,14 @@ Hey, I'm Ayush. I like building things that are fun, some live on the internet, 
 
 - <b>WhatTheHack</b> - A hackathon project, helping users to get problems to solve, so they can solve them
 
-(Add links once you pick the projects you want to feature.)
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 Trying to write cleaner, smarter code while building things that actually work in the real world.
 
 ---
 
-## 📬 Reach Me
+##  Reach Me
 - Email: saini07ayush@gmail.com
 - LinkedIn: www.linkedin.com/in/saini07ayush
